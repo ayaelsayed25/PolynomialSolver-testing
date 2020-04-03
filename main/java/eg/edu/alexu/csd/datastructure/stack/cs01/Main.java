@@ -51,7 +51,8 @@ public class Main {
             {
                 System.out.println("1-You can use symbols which are the characters from A/a to Z/z.\n"
                                   +"2-If your entered digits with spaces between them, the program will consider them all as one number\n"
-                                  +"3-You cannot enter negative symbols, e.g., -b");
+                                  +"3-You cannot enter negative symbols, e.g., -b\n"
+                                  +"4-You right way to write 4(5+2) is 4*(5+2). However you're allowed to put a negative sign before an open parenthesis, e.g., 5--(3+4) = 5-(-7)=12");
             }
             else
                 break;
